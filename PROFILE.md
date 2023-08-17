@@ -1,2 +1,5 @@
 bonjour le monde depuis Github
-modification suivante
+modification suivante | non fred, tu dois être plus expréssive
+
+ajout ici de ma nouvelle fonctionnalités
+ coucou ma nouvelle fct 
